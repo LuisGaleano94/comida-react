@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comida-react/static/css/main.5d67b754.css",
+    "main.js": "/comida-react/static/js/main.d56d3ec7.js",
+    "index.html": "/comida-react/index.html",
+    "main.5d67b754.css.map": "/comida-react/static/css/main.5d67b754.css.map",
+    "main.d56d3ec7.js.map": "/comida-react/static/js/main.d56d3ec7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d67b754.css",
+    "static/js/main.d56d3ec7.js"
+  ]
+}
